@@ -9,8 +9,6 @@ tomdang@edu.tsinghuamakerxian.cn
 
 tomdang@stu.xjtu.edu.cn
 
-
-
 ```C++
 #include <iostream>
 
