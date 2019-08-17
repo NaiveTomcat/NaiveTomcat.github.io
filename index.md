@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+
 # Naive Tomcat
 ### 我的个人日志
 
