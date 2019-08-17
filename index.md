@@ -14,15 +14,6 @@ tomdang@edu.tsinghuamakerxian.cn
 
 tomdang@stu.xjtu.edu.cn
 
-```C++
-#include <iostream>
-
-int main()
-{
-	std::cout<<"Hello,World!\n你好，世界！\n";
-	return 0;
-}
-```
 
    * * *
 
