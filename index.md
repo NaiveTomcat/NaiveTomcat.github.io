@@ -21,3 +21,8 @@ int main()
 }
 ```
 
+   * * *
+
+## Log Entries
+
+[20190817]({% post_url 2019-08-17-first-contact %})
