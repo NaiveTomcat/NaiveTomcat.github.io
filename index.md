@@ -29,3 +29,4 @@ int main()
 ## Log Entries
 
 [20190817 First Contact]({% post_url 2019-08-17-first-contact %})
+[20190818 Test of my software]({% post_url 2019-08-18-test-of-software %})
