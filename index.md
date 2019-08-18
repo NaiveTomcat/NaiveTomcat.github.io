@@ -28,3 +28,5 @@ tomdang@stu.xjtu.edu.cn
 [20190818 Train: The first page with pictures]({% post_url 2019-08-18-train %}) 
 
 [20190818 First update on termux]({% post_url 2019-08-18-first-on-termux %}) 
+
+[20190818 Stars]({% post_url 2019-08-18-stars %}) 
