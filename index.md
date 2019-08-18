@@ -26,3 +26,5 @@ tomdang@stu.xjtu.edu.cn
 [20190818 Update from mobile phone]({% post_url 2019-08-18-update-from-mobile-phone %})
 
 [20190818 Train: The first page with pictures]({% post_url 2019-08-18-train %}) 
+
+[20190818 First update on termux]({% post_url 2019-08-18-first-on-termux %}) 
