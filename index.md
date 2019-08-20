@@ -33,3 +33,5 @@ tomdang@stu.xjtu.edu.cn
 [20190818 Stars]({% post_url 2019-08-18-stars %}) 
 
 [20190819 Sleeplessness]({% post_url 2019-08-19-sleeplessness %})
+
+[20190819 Travel]({% [post_url 2019-08-19-prep %} 
