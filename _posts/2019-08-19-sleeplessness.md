@@ -1,6 +1,9 @@
 ---
 layout: post
 title: sleeplessness
+catalog:  true
+tags:
+        - tag
 ---
 在老家
 

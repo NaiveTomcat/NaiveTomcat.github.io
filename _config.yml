@@ -2,3 +2,5 @@ theme: jekyll-theme-architect
 title: NaiveTomcat
 description: Log entries for Tom Dang, AKA Naive Tomcat or Trimethyldopa.
 sidebar: true
+featured-tags: true
+featured-condition-size: 0
